@@ -1,1 +1,47 @@
+.produit{
+  font-style: italic;
+  color: coral;
+}
+.reference{
+  font-style: italic;
+  color: black;
+  background: #C0C0C0;;
+}
+.general{
+  font-weight: bolder;
+  color:blue;
+  text-decoration: underline;
 
+}
+
+#div3{
+  color: blue;
+  font-size: small;
+  background: #C0C0C0;
+}
+.titreniveau3{
+  color:red;
+  text-transform: uppercase;
+}
+body{
+  font-family: Verdana Arial sans-serif;
+  background: white;
+}
+h1,h2,h3{
+  font-family: Arial;
+}
+blockquote p{
+  text-indent: 20px;
+}
+blockquote p::first-letter {
+  color: green;
+  font-weight: bold;
+  font-family: fantasy;
+}
+tr{
+  font-variant-caps: small-caps;
+
+}
+th{
+  text-decoration:underline;
+}
